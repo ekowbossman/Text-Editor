@@ -9,23 +9,15 @@ To build this text editor, you will start with an existing application and imple
 
 You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
 
-## main files to edit
 
-* service-worker
-* manifest
-* package.json scripts
-* webpack.config
-
-## User Story
+### User Story
 
 
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 
-
-## Acceptance Criteria
-
+#### Acceptance Criteria
 GIVEN a text editor web application
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
